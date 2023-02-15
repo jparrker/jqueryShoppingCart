@@ -1,0 +1,13 @@
+.quantity input {
+  width: 70px;
+}
+
+body {
+  font-family: "Manrope", sans-serif;
+  font-weight: 600;
+}
+
+#cartWrapper {
+  padding-left: 0;
+  margin-top: 15px;
+}
